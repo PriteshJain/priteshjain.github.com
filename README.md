@@ -1,4 +1,4 @@
-## PRItesh Jain's Blog
+## Pritesh Jain's Blog
 
 Create using Jekyll-Bootstrap-3
 
