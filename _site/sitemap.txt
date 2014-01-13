@@ -1,0 +1,11 @@
+
+http://priteshjain.github.io/index.html
+http://priteshjain.github.io/atom.xml
+http://priteshjain.github.io/categories.html
+http://priteshjain.github.io/sitemap.txt
+http://priteshjain.github.io/tags.html
+http://priteshjain.github.io/pages.html
+http://priteshjain.github.io/archive.html
+http://priteshjain.github.io/rss.xml
+
+http://priteshjain.github.io/lessons/2011/12/29/jekyll-introduction
